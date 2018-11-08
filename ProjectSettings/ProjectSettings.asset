@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 51f178acebb614622bc81f15dd433f57
+  productGUID: 7be3046c77bca464f8a39ecc89b5895d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Beest 2
+  productName: Beest2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -648,8 +648,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: fb6a70d7-6475-4b38-9df6-140407a0a927
-  projectName: Beest 2
+  cloudProjectId: 2eef56ab-8c61-4868-912f-04a721836eb6
+  projectName: Beest2
   organizationId: steven-grutman
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
